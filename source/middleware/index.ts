@@ -1,5 +1,4 @@
 import { Request, Response, NextFunction } from 'express';
-
 import { educators } from 'controllers/educators';
 
 class Treatment {
